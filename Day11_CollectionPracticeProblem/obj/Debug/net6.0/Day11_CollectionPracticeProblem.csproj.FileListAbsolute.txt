@@ -1,0 +1,15 @@
+C:\Users\haree\source\repos\Day11_CollectionPracticeProblem\Day11_CollectionPracticeProblem\bin\Debug\net6.0\Day11_CollectionPracticeProblem.exe
+C:\Users\haree\source\repos\Day11_CollectionPracticeProblem\Day11_CollectionPracticeProblem\bin\Debug\net6.0\Day11_CollectionPracticeProblem.deps.json
+C:\Users\haree\source\repos\Day11_CollectionPracticeProblem\Day11_CollectionPracticeProblem\bin\Debug\net6.0\Day11_CollectionPracticeProblem.runtimeconfig.json
+C:\Users\haree\source\repos\Day11_CollectionPracticeProblem\Day11_CollectionPracticeProblem\bin\Debug\net6.0\Day11_CollectionPracticeProblem.dll
+C:\Users\haree\source\repos\Day11_CollectionPracticeProblem\Day11_CollectionPracticeProblem\bin\Debug\net6.0\Day11_CollectionPracticeProblem.pdb
+C:\Users\haree\source\repos\Day11_CollectionPracticeProblem\Day11_CollectionPracticeProblem\obj\Debug\net6.0\Day11_CollectionPracticeProblem.csproj.AssemblyReference.cache
+C:\Users\haree\source\repos\Day11_CollectionPracticeProblem\Day11_CollectionPracticeProblem\obj\Debug\net6.0\Day11_CollectionPracticeProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haree\source\repos\Day11_CollectionPracticeProblem\Day11_CollectionPracticeProblem\obj\Debug\net6.0\Day11_CollectionPracticeProblem.AssemblyInfoInputs.cache
+C:\Users\haree\source\repos\Day11_CollectionPracticeProblem\Day11_CollectionPracticeProblem\obj\Debug\net6.0\Day11_CollectionPracticeProblem.AssemblyInfo.cs
+C:\Users\haree\source\repos\Day11_CollectionPracticeProblem\Day11_CollectionPracticeProblem\obj\Debug\net6.0\Day11_CollectionPracticeProblem.csproj.CoreCompileInputs.cache
+C:\Users\haree\source\repos\Day11_CollectionPracticeProblem\Day11_CollectionPracticeProblem\obj\Debug\net6.0\Day11_CollectionPracticeProblem.dll
+C:\Users\haree\source\repos\Day11_CollectionPracticeProblem\Day11_CollectionPracticeProblem\obj\Debug\net6.0\refint\Day11_CollectionPracticeProblem.dll
+C:\Users\haree\source\repos\Day11_CollectionPracticeProblem\Day11_CollectionPracticeProblem\obj\Debug\net6.0\Day11_CollectionPracticeProblem.pdb
+C:\Users\haree\source\repos\Day11_CollectionPracticeProblem\Day11_CollectionPracticeProblem\obj\Debug\net6.0\Day11_CollectionPracticeProblem.genruntimeconfig.cache
+C:\Users\haree\source\repos\Day11_CollectionPracticeProblem\Day11_CollectionPracticeProblem\obj\Debug\net6.0\ref\Day11_CollectionPracticeProblem.dll
